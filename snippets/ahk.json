@@ -575,7 +575,6 @@
     "Loop reg": {
       "prefix": "Loop reg",
       "body": "Loop, Reg, ${1:KeyName }[, ${2:Mode}]",
-      "description": "Test"
     },
     "Menu": {
       "prefix": "Menu",
